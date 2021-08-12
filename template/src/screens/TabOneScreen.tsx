@@ -5,7 +5,6 @@ import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import { RootStackParamList } from "types/naviTypes";
 import { StackScreenProps } from "@react-navigation/stack";
 
-//@ts-ignore
 export default function TabOneScreen({
   navigation,
 }: StackScreenProps<RootStackParamList, "Root">) {

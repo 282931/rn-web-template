@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface rnRNwebAllinTests : XCTestCase
+@interface reactnativewebtemplateTests : XCTestCase
 
 @end
 
-@implementation rnRNwebAllinTests
+@implementation reactnativewebtemplateTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {

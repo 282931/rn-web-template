@@ -2,10 +2,11 @@ import * as serviceWorkerRegistration from "./serviceWorkerRegistration";
 
 import { AppRegistry } from "react-native";
 import { Main } from "./Main";
+import {name as appName} from '../app.json';
 
-AppRegistry.registerComponent("rnRNwebAllin", () => Main);
+AppRegistry.registerComponent(appName, () => Main);
 
-AppRegistry.runApplication("rnRNwebAllin", {
+AppRegistry.runApplication(appName, {
   rootTag: document.getElementById("root"),
 });
 

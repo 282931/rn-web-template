@@ -1,6 +1,6 @@
 {
   "name": "rn-web-template",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Template combile React Native and react-native-web with same structure",
   "repository": "git@github.com:282931/rn-web-template.git",
   "author": "Theo <for4die@sina.com>",

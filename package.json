@@ -3,6 +3,20 @@
   "version": "1.0.0",
   "description": "Template combile React Native and react-native-web with same structure",
   "repository": "git@github.com:282931/rn-web-template.git",
+  "keywords": [
+    "react-native-web",
+    "typescript",
+    "react native",
+    "react-native",
+    "react",
+    "native",
+    "android",
+    "ios",
+    "template",
+    "boilerplate",
+    "react-navigation"
+  ],
+
   "author": "Theo <for4die@sina.com>",
   "license": "MIT"
 }

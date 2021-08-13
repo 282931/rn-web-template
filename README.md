@@ -40,7 +40,9 @@ yarn run web
 | :-------------------------------------- | :-----------------------------------------------: |
 | ![web](https://raw.githubusercontent.com/282931/rn-web-template/master/gif/testResponseios.gif)      | ![native](https://raw.githubusercontent.com/282931/rn-web-template/master/gif/testResponseweb.gif)                              |
 
-参考文档
+
+[参考文档](https://mmazzarolo.com/blog/2021-07-31-react-native-responsive-scaling-on-the-web)
+
 
 ## 注意事项:React Native CLI
 

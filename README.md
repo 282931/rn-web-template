@@ -13,10 +13,11 @@
 
 ## 为什么要用我
 
+- react-native-web官方没有集成react-native的正式方案
 - 这个template是用react-native init创建的项目，Expo目前就支持原生和web同构，如果你正在用Expo不用考虑这个这个库。
 - typescript配置
-- web网页和原生尺寸响应式解决方案
-- react-navigation路由配置
+- 网页和原生缩放响应式解决方案
+- 网页和原生共用react-navigation路由配置
 
 ## 用法
 

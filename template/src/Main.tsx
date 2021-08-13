@@ -6,7 +6,7 @@ import Navigation from "./navigation";
 
 export const Main: FC = function () {
   return (
-    <SafeAreaView style={[styles.root, { backgroundColor: "#333" }]}>
+    <SafeAreaView style={styles.root}>
       <Layout>
         <Navigation />
       </Layout>
@@ -19,5 +19,6 @@ const styles = StyleSheet.create({
     height: "100%",
     width: "100%",
     flex: 1,
+    backgroundColor: "#fff"
   },
 });
